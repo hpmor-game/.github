@@ -1,12 +1,12 @@
-## Hi there 👋
+Представьте, что у вас появилась возможность взаимодействовать со вселенной Юдковского в интерактивном формате, пробовать разные стратегии действий, окунуться в мир рациональной магии. Мы хотим сделать это реальностью.
 
-<!--
+Вся информация по разработке - [здесь](https://github.com/hpmor-game/obsidian-docs). Также у нас есть [roadmap](https://github.com/hpmor-game/obsidian-docs/blob/main/roadmap.md), в котором описаны основные стадии проекта. В [группе ВК](https://vk.com/pottersnap) публикуются анонсы и апдейты.
 
-**Here are some ideas to get you started:**
+# Как помочь развитию проекта?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Мы - опенсорсный проект, и у нас нет других способов монетизации, кроме донатов. Нас можно поддержать финансово на:
+- [Boosty](https://boosty.to/pottersnap) (для российских карточек)
+- [Patreon](https://www.patreon.com/pottersnap) (для иностранных карточек)
+- [VK Donut](https://vk.com/pottersnap)
+
+Если вы хотите отправить разовое пожертвование более 1000₽ или 20$ - пожалуйста, свяжитесь с намии [в телеграме](https://t.me/timofeiryko), в [вк](https://vk.com/nitrogenous_base) или на почту timofei.ryko@gmail.com и мы отправим вам реквизиты (есть и российский, и европейский счета). Также пишите, если вы готовы помочь развитию проекта любыми другими способами.
